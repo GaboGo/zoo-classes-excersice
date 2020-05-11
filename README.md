@@ -13,3 +13,6 @@ Create the objects that you feel would best model a jungle using your best codin
 - Only monkeys will have the ability to play. When they do so, they say “Oooo Oooo” and get -8 of energy. If they don't have energy to play, they say “I’m too tired”.
 - The jungle contains several types of food (Fish, Grain and Meat), and Tigers can’t eat Grain because they have sensitive digestive systems. And when they try to eat Grain, they say “I can’t it that”.
 - Bonus: The jungle can have each animal perform a random activity out of the ones possible for that animal.
+
+
+To test copy and paste the code in a browser console or creating a snippet.
