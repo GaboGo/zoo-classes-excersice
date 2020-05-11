@@ -15,4 +15,4 @@ Create the objects that you feel would best model a jungle using your best codin
 - Bonus: The jungle can have each animal perform a random activity out of the ones possible for that animal.
 
 
-To test copy and paste the code in a browser console or creating a snippet.
+Copy and paste the code from index.js in a browser console or creating a snippet.
